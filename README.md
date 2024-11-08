@@ -8,6 +8,9 @@ Modelos de machine learning supervisionado e não supervisionado
 Análise preditiva e big data
 Melhoria em habilidades de visualização com Power BI e Tableau
 Técnicas avançadas de SQL
+
 Como Entrar em Contato
+
 LinkedIn: https://www.linkedin.com/in/andre-luiz-nogueira-4b21a5304/
+
 Email: drenogueira12@gmail.com
